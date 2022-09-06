@@ -1,1 +1,1 @@
-Ey yo wassup. It's me, Alom. I like to code n stuff.
+Hello, I'm Alom, a web developer. My tech stack is HTML, CSS and JavaScript.  
