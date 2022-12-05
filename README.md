@@ -1,1 +1,22 @@
-Hello, I'm Alom, a web developer. My tech stack is HTML, CSS and JavaScript.  
+# About Me
+  🥅 Working my way towards becoming a developer with front and back-end knowledge.  
+
+# Social
+https://twitter.com/Alomoadev
+
+
+
+# WIP Projects
+Im currenly working on:  
+  Building a website for a client  
+  Making a game with a group using Unity  
+  100 days of Writing
+  
+# Current Tech Stack
+Javascript 
+HTML / CSS  
+Java  
+SQL
+
+
+
