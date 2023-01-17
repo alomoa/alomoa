@@ -15,8 +15,6 @@ Im currenly working on:
 # Current Tech Stack
 Javascript 
 HTML / CSS  
-Java  
-SQL
 
 
 
