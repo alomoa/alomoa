@@ -6,7 +6,7 @@ https://twitter.com/Alomoadev
 
 # WIP Projects
 Im currenly working on:  
-  Portfolio
+  Portfolio  
   Making a game with a group using Unity  
   100 days of Books!
   
