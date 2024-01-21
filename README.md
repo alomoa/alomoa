@@ -1,20 +1,20 @@
 # About Me
-  🥅 Working my way towards becoming a developer with front and back-end knowledge.  
+  Currently working as a Software Developer focused on front-end (Vue) and back-end development (C#).
 
 # Social
 https://twitter.com/Alomoadev
 
-
-
 # WIP Projects
 Im currenly working on:  
-  Building a website for a client  
+  Portfolio
   Making a game with a group using Unity  
-  100 days of Writing
+  100 days of Books!
   
 # Current Tech Stack
-Javascript 
+Javascript
+Vue
 HTML / CSS  
+C#
 
 
 
