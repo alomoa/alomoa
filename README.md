@@ -11,9 +11,9 @@ Im currenly working on:
   100 days of Books!
   
 # Current Tech Stack
-Javascript
-Vue
-HTML / CSS  
+Javascript  
+Vue  
+HTML / CSS    
 C#
 
 
